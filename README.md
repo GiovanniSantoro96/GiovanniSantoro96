@@ -1,5 +1,5 @@
 ## Olá ! Meu nome é Giovanni. 👋🏻
-Estudante de Sistemas de Informação. 🖥️
+Sistemas de Informação. 🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-santoro-737a89248)
 
